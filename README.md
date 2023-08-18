@@ -1,4 +1,3 @@
- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkuKPAXjEG2-iUPegH8uR4vPVFME9_SnDOQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Afik Tahirov</h1>
 <h3 align="center">A passionate Full Stack Developer from Azerbaijan</h3>
 
