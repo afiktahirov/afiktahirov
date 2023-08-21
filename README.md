@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP JavaScript Python**
 
-- 💬 Ask me about **Full Stack Developer PHP Framework(Laravel 10) JavaScript AJAX ReactJs Html Css Bootstrap 5 RestApi**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **afik.tahirov@gmail.com**
 
