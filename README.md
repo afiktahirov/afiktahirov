@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stack Developer PHP Framework(Laravel 10) JavaScript AJAX ReactJs Html Css Bootstrap 5 RestApi**
 
-- 📫 How to reach me **afik.tahirov@gmail.co**
+- 📫 How to reach me **afik.tahirov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
