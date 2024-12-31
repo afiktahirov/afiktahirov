@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afiktahirov" alt="afiktahirov" /></a> </p>
 
-- 🌱 I’m currently learning **PHP JavaScript Python**
+- 🌱 I’m currently learning **PHP JavaScript Python***
 
 - 💬 Ask me about **Full Stack Developer PHP Framework(Laravel 10) JavaScript AJAX ReactJs Html Css Bootstrap 5 RestApi**
 
